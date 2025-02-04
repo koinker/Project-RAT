@@ -1,0 +1,31 @@
+﻿  refinedrat.c
+C:\Users\potse\Desktop\refinedrat\refinedrat\refinedrat.c(288,10): warning C4013: 'DeleteSelf' undefined; assuming extern returning int
+C:\Users\potse\Desktop\refinedrat\refinedrat\refinedrat.c(335,93): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\potse\Desktop\refinedrat\refinedrat\refinedrat.c(335,93): warning C4024: 'CreateFileW': different types for formal and actual parameter 6
+C:\Users\potse\Desktop\refinedrat\refinedrat\refinedrat.c(344,69): warning C4244: 'function': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+C:\Users\potse\Desktop\refinedrat\refinedrat\refinedrat.c(356,93): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\potse\Desktop\refinedrat\refinedrat\refinedrat.c(356,93): warning C4024: 'CreateFileW': different types for formal and actual parameter 6
+C:\Users\potse\Desktop\refinedrat\refinedrat\refinedrat.c(427,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\potse\Desktop\refinedrat\refinedrat\refinedrat.c(440,75): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\potse\Desktop\refinedrat\refinedrat\refinedrat.c(450,57): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\potse\Desktop\refinedrat\refinedrat\refinedrat.c(455,57): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\potse\Desktop\refinedrat\refinedrat\refinedrat.c(497,72): warning C4133: ':': incompatible types - from 'WCHAR *' to 'CHAR *'
+C:\Users\potse\Desktop\refinedrat\refinedrat\refinedrat.c(701,44): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\potse\Desktop\refinedrat\refinedrat\refinedrat.c(705,47): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\potse\Desktop\refinedrat\refinedrat\refinedrat.c(710,43): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\potse\Desktop\refinedrat\refinedrat\refinedrat.c(720,44): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\potse\Desktop\refinedrat\refinedrat\refinedrat.c(724,47): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\potse\Desktop\refinedrat\refinedrat\refinedrat.c(735,44): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\potse\Desktop\refinedrat\refinedrat\refinedrat.c(739,47): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\potse\Desktop\refinedrat\refinedrat\refinedrat.c(745,40): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\potse\Desktop\refinedrat\refinedrat\refinedrat.c(755,44): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\potse\Desktop\refinedrat\refinedrat\refinedrat.c(760,43): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\potse\Desktop\refinedrat\refinedrat\refinedrat.c(770,48): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\potse\Desktop\refinedrat\refinedrat\refinedrat.c(780,43): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\potse\Desktop\refinedrat\refinedrat\refinedrat.c(671,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\potse\Desktop\refinedrat\refinedrat\refinedrat.c(905,25): warning C4244: 'function': conversion from 'SOCKET' to 'int', possible loss of data
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 35 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  refinedrat.vcxproj -> C:\Users\potse\Desktop\refinedrat\x64\Release\refinedrat.exe

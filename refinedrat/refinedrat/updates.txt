@@ -1,0 +1,20 @@
+make it mallable.(create a seperate config file that it reads settings from)
+!DONE~secure the socket
+!DONE~add userland rootkit tech
+
+]]]]]]]
+network enumeration(nearby accesspoints, devices on network, network shares, services)
+download and upload files
+hardware enumeration
+
+
+}}}}}}}}}BUGs{{{{{{{}}}}}}}
+injecting libs causes target process to crash also disconnect client
+unexpected disconnects make auto reconnection have cert failure
+
+
+
+||||||||TIME CONSUMING||||||||
+worm capabilities
+
+
